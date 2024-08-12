@@ -14,6 +14,11 @@ Proyek ini adalah aplikasi manajemen divisi dan karyawan yang juga menyediakan A
 
 ## API Reference
 
+## baseUrl https://aksamediazam.test.klinikjendralkefamenanu.cloud/
+
+
+### Tambahkan header accept :  application/json jika akses di postman
+
 ## Api Login
 ```http
 POST /api/login
