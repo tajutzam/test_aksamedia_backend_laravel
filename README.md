@@ -2,15 +2,15 @@
 
 ## Deskripsi Proyek
 
-Proyek ini adalah aplikasi manajemen divisi dan karyawan yang juga menyediakan API untuk mengelola dan mengakses data nilai. Aplikasi ini dirancang untuk membantu organisasi dalam mengelola data divisi dan karyawan serta memberikan nilai hasil evaluasi karyawan melalui API. Api ini dibuat untuk memenuhi test magang di aksamedia sebagai backend developer
+Proyek ini adalah aplikasi manajemen divisi dan karyawan yang juga menyediakan API untuk mengelola dan mengakses data nilai. Aplikasi ini dirancang untuk membantu organisasi dalam mengelola data divisi dan karyawan serta memberikan nilai hasil evaluasi Siswa melalui API. Api ini dibuat untuk memenuhi test magang di aksamedia sebagai backend developer
 
 ## Fitur Utama
 
 - **Token Authentikasi**: Dengan menggunakan token yang memanfaatkan laravel sacntum agar lebih efisien dan secure.
 - **Manajemen Divisi**: API Mengambil Data Divisi.
-- **Manajemen Karyawan**: API untuk menambahkan, memperbarui, dan menghapus data karyawan.
-- **Nilai RT**: API untuk mendapatkan data nilai RT karyawan.
-- **Nilai ST**: API untuk mendapatkan data nilai ST karyawan.
+- **Manajemen Karyawan**: API untuk mengambil,  menambahkan, memperbarui, dan menghapus data karyawan.
+- **Nilai RT**: API untuk mendapatkan data nilai RT Siswa.
+- **Nilai ST**: API untuk mendapatkan data nilai ST Siswa.
 
 ## API Reference
 
